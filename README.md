@@ -14,7 +14,8 @@ I learned how to manipulate code in different ways, including and not limited to
 
 ### Sample Code from Project
 
-Below is some sample code from the project, that highlights the main points and functions associated with it. 
+Below is some sample code from the project that highlights the main points and functions associated with it. 
 
+![git-lab3](https://user-images.githubusercontent.com/105069118/171968369-cd6c44d9-56ac-46a3-9d2b-031e5c08d4a2.png)
 
 ### [Back to the Home Page](http://uo-cit-bradyr57.github.io/bradyr57.github.io/)
